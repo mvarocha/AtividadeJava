@@ -22,7 +22,7 @@ Demonstração da listagem de clientes das seguintes formas:
 * Listando clientes do gênero feminino
 * Listando clientes de ambos os gêneros separadamente
 
-<img src="">
+<img src="https://github.com/mvarocha/AtividadeJava/blob/main/gifs/listando-clientes.gif?raw=true">
 
 Demonstração da listagem de produtos e serviços
 
