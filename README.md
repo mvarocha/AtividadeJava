@@ -1,5 +1,7 @@
 # Atividade - Programação Orientada a Objeto (Java)
 
+O objetivo da atividade era realizar a criação de um sistema CRUD (Create, Read, Update, Delete), do tipo cli (command-line  interface), para um grupo fictício que atua no ramo de estética, o Grupo World Beauty (WB). 
+
 ## Cadastros
 
 Demonstração do cadastro de clientes
